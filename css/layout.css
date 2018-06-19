@@ -36,6 +36,10 @@
   margin: 1%;
 }
 
+.first {
+  margin-left: 0;
+}
+
 .deals {
   float: left;
   width: 31%;
