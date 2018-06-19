@@ -24,13 +24,13 @@
 
 /* Posititoning Classes */
 
-#brands {
+.col-1 {
   float: left;
   width: 64%;
   margin: 1%;
 }
 
-#archive {
+.col-2 {
   float: left;
   width: 31%;
   margin: 1%;
